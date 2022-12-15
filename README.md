@@ -17,7 +17,7 @@ Technologies I Use
 </h2>
 <!-- <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/> -->
 
-<table style="border: none>
+<table style="border: none">
     <tr>
         <td> <b>Languages</b> </td>
         <td>
