@@ -18,9 +18,9 @@ Technologies I Use
 <!-- <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/> -->
 
 <table style="border: none">
-    <tr>
-        <td> <b>Languages</b> </td>
-        <td>
+    <tr style="border: none">
+        <td style="border: none"> <b>Languages</b> </td>
+        <td style="border: none">
             <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=000000&labelColor=000000">
             <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=black&color=fff&labelColor=fff">
             <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=000&labelColor=000000">
