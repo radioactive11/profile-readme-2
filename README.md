@@ -16,7 +16,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Technologies I Use
 </h2>
 <!-- <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/> -->
-<p align="center">
+<div align="center">
 <table style="border: none">
     <tr style="border: none">
         <td style="border: none"> <b>Languages</b> </td>
@@ -96,7 +96,7 @@ Technologies I Use
         </td>
     </tr>
 </table>
-</p>
+</div>
 
 
 
