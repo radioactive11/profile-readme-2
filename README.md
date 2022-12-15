@@ -1,9 +1,6 @@
 <img src="static/working.png">
 
 <br>
-
-<h1 align="center"> Welcome to my page!</h1>
-
 <br>
 
 <img src="static/memoji.png" width="250" align="right">
