@@ -12,10 +12,12 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <br>
 
-<h2>
-Technologies I Use
-</h2>
-<!-- <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/> -->
+
+<summary><h2>⚙️ Technologies I Use</h2></summary>
+
+
+<br>
+<br>
 <div align="center">
 <table style="border: none">
     <tr style="border: none">
@@ -99,7 +101,16 @@ Technologies I Use
 </div>
 
 
-
+<summary><h2>🏗️ My Top Open Source Projects</h2></summary>
+<br>
+<div align="center">
+<a href="https://github.com/rezonance-india/engine-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezonance-india&repo=engine-api&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/radioactive11/rezonance"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=rezonance&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/radioactive11/alpr-india"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=alpr-india&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/radioactive11/apple-music-readme"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=apple-music-readme&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/radioactive11/the-lyrics-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=the-lyrics-api&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/radioactive11/diode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=diode&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+</div>
 
 <!-- Logo Marocs -->
 
