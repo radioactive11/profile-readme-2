@@ -132,7 +132,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 </div>
 
 
-<summary><h2>Contact Me</h2></summary>
+<summary><h2>👻 Contact Me</h2></summary>
 
 
 <div align="center">
