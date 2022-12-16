@@ -128,7 +128,28 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <br>
 <a href="https://github.com/radioactive11/apple-music-readme/" target="_blank">
 <img src="https://apple-music-readme.vercel.app/?" align="center">
+</a>
 </div>
+
+
+<summary><h2>Contact Me</h2></summary>
+
+
+<div align="center">
+<br>
+ <a href="https://t.me/radioactive11" target="_blank">
+ <img alt="TF" src="https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=black&color=000000&labelColor=fff"/>
+ </a>
+ <a href="https://www.instagram.com/this_is_radioactive11/" target="_blank">
+ <img alt="TF" src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=fff&labelColor=000"/>
+ </a> 
+ <a href="mailto:roy.arijit@icloud.com" target="_blank">
+ <img alt="TF" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=000000&labelColor=fff"/>
+ </a>
+ <a href="https://linkedin.com/in/arijitroy11" target="_blank">
+ <img alt="TF" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=fff&labelColor=000"/>
+</div>
+
 
 <!-- Logo Marocs -->
 
