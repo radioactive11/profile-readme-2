@@ -112,6 +112,24 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <a href="https://github.com/radioactive11/diode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=diode&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 </div>
 
+<br>
+
+<summary><h2>🏡 Environment</h2></summary>
+<br>
+<div align="center">
+
+![applembp] ![vscode] ![iterm2] ![tmux]
+
+</div>
+
+<summary><h2> Recently Listening To</h2></summary>
+
+<div align="center">
+<br>
+<a href="https://github.com/radioactive11/apple-music-readme/" target="_blank">
+<img src="https://apple-music-readme.vercel.app/?" align="center">
+</div>
+
 <!-- Logo Marocs -->
 
 <!-- Languages -->
@@ -165,3 +183,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 [docker]: https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=000&labelColor=000000"
 [git]: https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=black&color=fff&labelColor=000000"
 [postman]: https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=000&labelColor=000000"
+
+<!-- enviroment -->
+[applembp]: https://img.shields.io/badge/MacBook%20Pro-informational?style=flat&logo=apple&logoColor=white&color=000&labelColor=000000"
+[vscode]: https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=000&labelColor=000000"
+[iterm2]: https://img.shields.io/badge/iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=000&labelColor=000000"
+[tmux]: https://img.shields.io/badge/tmux-informational?style=flat&logo=tmux&logoColor=white&color=000&labelColor=000000"
+[tmux]: https://img.shields.io/badge/tmux-informational?style=flat&logo=tmux&logoColor=white&color=000&labelColor=000000"
