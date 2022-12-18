@@ -3,14 +3,22 @@
 <br>
 <br>
 
-<img src="static/memoji.png" width="250" align="right">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="static/memoji.png" width="200" align="right">
+I am Arijit Roy, a backend and machine learning engineer from New Delhi, India. I develop products that are that are driven by data and innovation.
 
 <br>
+
+Here non-exhaustive list of things I do:
+<li> Extracting meaningful insights from data
+<li> Building recommendation engines
+<li> Working on classification and clustering problems
+<li> Work with computation/data engineering libraries like Pandas, Numpy, PyTorch, OpenCV, etc
+<li> Utilize cloud technologies like Cognitive Services, Storage, AzureML, etc.
+<li> Build webservers using tools like Django, FastAPI, Celery, Redis, Apache Airflow, etc.
+
+<br>
+
+
 
 
 <summary><h2>⚙️ Technologies I Use</h2></summary>
