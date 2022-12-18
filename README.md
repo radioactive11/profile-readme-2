@@ -17,10 +17,7 @@ Here non-exhaustive list of things I do:
 <li> Build webservers using tools like Django, FastAPI, Celery, Redis, Apache Airflow, etc.
 
 <br>
-
-
-
-
+<br>
 <summary><h2>⚙️ Technologies I Use</h2></summary>
 
 
